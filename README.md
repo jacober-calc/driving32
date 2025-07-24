@@ -8,9 +8,9 @@ You will find the most recent version and information on this Statefile in this 
 
 ## Install and Download
 
-You can find instructions on how to install .dm32 Statefiles to your calculator [via the DM32 User Manual](https://technical.swissmicros.com/dm32/doc/dm32_user_manual.html#_saving_and_loading_a_state). The process is extremely simple. You can download the .zip file from this release page and inside you will find the following files:
+You can find instructions on how to install .dm32 Statefiles to your calculator [via the DM32 User Manual](https://technical.swissmicros.com/dm32/doc/dm32_user_manual.html#_saving_and_loading_a_state). The process is extremely simple. You can download the .zip file from the release page from this GitHub repository.
 
-Consulting this **Readme.md** before use is highly recommended. The program is simple enough to use, but the readme contains useful information. The file you will want to install on your calculator is **Driving.d32**.
+Consulting this **Readme.md** before use is highly recommended. The program is simple enough to use, but the readme contains useful information. The file you will want to install on your calculator from the .zip file is **Driving.d32**.
 
 ## Routines and Instructions
 
@@ -200,3 +200,13 @@ All units used throughout this Statefile are SI. Velocities are inputted by the 
 ## Disclaimer
 
 Nothing in this Statefile should be used for real-world driving applications. All of the physical calculations are based on theoretical Newtonian physics at the level of a high school student. While the Statefile has tremendous use in classroom and instructional settings for professional drivers or young drivers learning the road, the formulas used do not stand up to the rigor of real-world application.
+
+## By jacober-calc for SwissMicros DM32
+
+> - [SwissMicros Website](https://www.swissmicros.com)
+> - [DM32 product page](https://www.swissmicros.com/product/model-dm32)
+> - [SwissMicros full products page](https://www.swissmicros.com/products)
+> - [DM32 Online User Manual](https://technical.swissmicros.com/dm32/doc/dm32_user_manual.html)
+> - [SwissMicros Calculator Forum](https://forum.swissmicros.com/index.php)
+
+![jacober-calc](https://i.imgur.com/YVqd59l.png)
