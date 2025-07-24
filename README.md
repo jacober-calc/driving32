@@ -48,7 +48,7 @@ The following variables are used by the routine:
 > - Variable T / Reaction distance
 > - Variable V / Velocity in meters per second
 
-### LBL P: PYSICS Routine
+### LBL P: PHYSICS Routine
 
 The PHYSICS routine takes velocity (km/h) and weigh (kg) and produces standard physics values for momentum and kinetic energy.
 
