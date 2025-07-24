@@ -10,7 +10,7 @@ You will find the most recent version and information on this Statefile in this 
 
 You can find instructions on how to install .dm32 Statefiles to your calculator [via the DM32 User Manual](https://technical.swissmicros.com/dm32/doc/dm32_user_manual.html#_saving_and_loading_a_state). The process is extremely simple. You can download the .zip file from this release page and inside you will find the following files:
 
-Consulting **Readme.md** before use is highly recommended. The program is simple enough to use, but the readme contains useful information. The file you will want to install on your calculator is **Driving.d32**.
+Consulting this **Readme.md** before use is highly recommended. The program is simple enough to use, but the readme contains useful information. The file you will want to install on your calculator is **Driving.d32**.
 
 ## Routines and Instructions
 
